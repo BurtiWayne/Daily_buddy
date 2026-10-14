@@ -16,16 +16,16 @@ app = Flask(__name__)
 IST = timezone(timedelta(hours=5, minutes=30))
 
 JOKES = [
-    "Why did the phone go to school? To get smarter!",
-    "Why was the math book sad? It had too many problems.",
-    "What do you call a sleeping bull? A bulldozer!",
-    "Why did the banana go to the doctor? It was not peeling well.",
+    "Mela Paaru Vaanam Keela paaru thara",
+    "Onekellam Ethukuda Joke Neeye periya...",
+    "Professional platform da macha illana etha solliduven",
+    "நாங்க அடி வாங்காத ஏரியா-வெ கெடையாது.",
     "Why can't you trust stairs? They are always up to something.",
 ]
 
 FACTS = [
-    "Honey never spoils. Edible honey has been found in ancient tombs.",
-    "An octopus has three hearts.",
+    "நாம எது பண்ணாலும் இந்த உலகம் நம்ம ஓடனே ஊது பாக்கணும். நாதாரி தனம் பண்ணாலும் நாசூக்க பணனும்.",
+    "நீ பேசாம இருந்தாலே பாதி பிரச்சினை தீர்ந்துரும்!",
     "Bananas are slightly radioactive, but totally safe to eat.",
     "A day on Venus is longer than a year on Venus.",
     "Your heart beats about 100,000 times every day.",
